@@ -1,0 +1,16 @@
+autoprefixer
+tailwindcss, @tailwindcss/forms, tailwind-scrollbar
+postcss
+phosphor-react
+@headlessui/react
+
+//estrutura//
+mudança de idiomas dinamica -> I18n
+autenticação de 2 fatores: api whats falsa, sms(8 centavos), whats
+universal modeling language -> Draw IO, Criação modelagem de diagrama entidade e relacionamento --> diagrams.net 
+
+
+// #Code 
+aula - 1: #
+aula - 2: #NeverStopLearning
+aula - 3: #NewSkills
